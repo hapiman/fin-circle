@@ -1,2 +1,8 @@
 # fin-circle
-study and share the financial message around coders.
+探讨技术、金融、赚钱的小圈子！
+
+## 技术
+
+## 金融
+
+## 赚钱
