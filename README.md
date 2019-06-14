@@ -22,6 +22,8 @@
 
 ## 金融
 
+* [银行给小微企业贷款的三种操作模式](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483919&idx=1&sn=c11fb64260fb9b69ac7d01f12b30bd5c&chksm=9071056da7068c7b8c28b3c2d31ff60946681d956734aafffd2cc01ad99071cc85f64b5629f5&token=404112811&lang=zh_CN#rd)
+
 * [小贷公司为什么大多选择重庆作为注册地？](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483914&idx=1&sn=ce66a72df82aa85d781e89199f19023a&chksm=90710568a7068c7efa5360a124d53a83d75313d18a760b6236b0de1e385c846f849a0d4ed889&token=1231264541&lang=zh_CN#rd)
 
 
