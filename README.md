@@ -10,6 +10,8 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
+最新：[持牌消费金融公司知多少](https://mp.weixin.qq.com/s/y1mPvOeUyt7vdGyroY5m2g)
+
 ## 技术
 
 * [再也不用担心百度网盘的龟速下载了](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483850&idx=1&sn=297a3148e223a8b89c438efbabfd65c0&chksm=907106a8a7068fbed1083408b9da562818ea5cee38d9bef49dd9001f604d3c481baa375c253a&token=1231264541&lang=zh_CN#rd)
@@ -21,6 +23,8 @@
 * [吐血推荐Chrome浏览器插件](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483778&idx=1&sn=4aba2db4df7219d641002edc215506c5&chksm=907106e0a7068ff67f58524638fb90fdb3faeeff6acea360fa04928d19defd7f496a23e9fbd7&token=1231264541&lang=zh_CN#rd)
 
 ## 金融
+
+* [持牌消费金融公司知多少](https://mp.weixin.qq.com/s/y1mPvOeUyt7vdGyroY5m2g)
 
 * [银行给小微企业贷款的三种操作模式](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483919&idx=1&sn=c11fb64260fb9b69ac7d01f12b30bd5c&chksm=9071056da7068c7b8c28b3c2d31ff60946681d956734aafffd2cc01ad99071cc85f64b5629f5&token=404112811&lang=zh_CN#rd)
 
