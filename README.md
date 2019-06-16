@@ -10,7 +10,7 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新：[持牌消费金融公司知多少](https://mp.weixin.qq.com/s/y1mPvOeUyt7vdGyroY5m2g)
+最新文章：[一次性看完中概股中的金融科技公司](https://mp.weixin.qq.com/s/RUvsTUk3687S_6XKK1-iRA)
 
 ## 技术
 
@@ -23,6 +23,8 @@
 * [吐血推荐Chrome浏览器插件](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483778&idx=1&sn=4aba2db4df7219d641002edc215506c5&chksm=907106e0a7068ff67f58524638fb90fdb3faeeff6acea360fa04928d19defd7f496a23e9fbd7&token=1231264541&lang=zh_CN#rd)
 
 ## 金融
+
+* [一次性看完中概股中的金融科技公司](https://mp.weixin.qq.com/s/RUvsTUk3687S_6XKK1-iRA)
 
 * [持牌消费金融公司知多少](https://mp.weixin.qq.com/s/y1mPvOeUyt7vdGyroY5m2g)
 
