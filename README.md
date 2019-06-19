@@ -10,9 +10,11 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[风口上的消费金融，是个什么鬼？](https://mp.weixin.qq.com/s/T5GvQZmv-xr8-DRNDf1dbw)
+最新文章：[你star过的项目就不管了吗？](https://mp.weixin.qq.com/s/l_NC_hbfcuVL4UDKop-6_g)
 
 ## 技术
+
+* [你star过的项目就不管了吗？](https://mp.weixin.qq.com/s/l_NC_hbfcuVL4UDKop-6_g)
 
 * [再也不用担心百度网盘的龟速下载了](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483850&idx=1&sn=297a3148e223a8b89c438efbabfd65c0&chksm=907106a8a7068fbed1083408b9da562818ea5cee38d9bef49dd9001f604d3c481baa375c253a&token=1231264541&lang=zh_CN#rd)
 
