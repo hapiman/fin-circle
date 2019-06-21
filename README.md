@@ -10,7 +10,7 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[你star过的项目就不管了吗？](https://mp.weixin.qq.com/s/l_NC_hbfcuVL4UDKop-6_g)
+最新文章：[穷帽子，摘掉！](https://mp.weixin.qq.com/s/Bc61ipiLsNH5Xb1XF6rBqA)
 
 ## 技术
 
@@ -46,6 +46,8 @@
 * [最近比较火热的包商银行、三湘银行在商业银行中的地位，你可知道？](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483818&idx=1&sn=d35973684b96a60270c420fcf91a0e18&chksm=907106c8a7068fde12b145332787297dcabc538c6442aa89392296597be27f4a77095d115e65&token=1231264541&lang=zh_CN#rd)
 
 ## 赚钱
+
+* [穷帽子，摘掉！](https://mp.weixin.qq.com/s/Bc61ipiLsNH5Xb1XF6rBqA)
 
 * [小白都能看懂的，关于提前还房贷这件事！](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483812&idx=1&sn=3d7ed7672d5b07f126973371a0c0a6c8&chksm=907106c6a7068fd035133eaf101918087a265344a9f030140b7118dedeeab4039362f07b92aa&token=1231264541&lang=zh_CN#rd)
 
