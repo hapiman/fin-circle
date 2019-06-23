@@ -10,7 +10,7 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[穷帽子，摘掉！](https://mp.weixin.qq.com/s/Bc61ipiLsNH5Xb1XF6rBqA)
+最新文章：[程序员如何技术变现？](https://mp.weixin.qq.com/s/8bj_HYD4ON6kbv6fzrDeKQ)
 
 ## 技术
 
@@ -46,6 +46,8 @@
 * [最近比较火热的包商银行、三湘银行在商业银行中的地位，你可知道？](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483818&idx=1&sn=d35973684b96a60270c420fcf91a0e18&chksm=907106c8a7068fde12b145332787297dcabc538c6442aa89392296597be27f4a77095d115e65&token=1231264541&lang=zh_CN#rd)
 
 ## 赚钱
+
+* [程序员如何技术变现？](https://mp.weixin.qq.com/s/8bj_HYD4ON6kbv6fzrDeKQ)
 
 * [穷帽子，摘掉！](https://mp.weixin.qq.com/s/Bc61ipiLsNH5Xb1XF6rBqA)
 
