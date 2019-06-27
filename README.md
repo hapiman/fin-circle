@@ -4,13 +4,11 @@
 
 主旨：`探讨技术、金融、赚钱的小圈子！`
 
-态度：`日更，不负你！`
-
 如果你对某项技术，某个金融知识，或者某种赚钱的方式有疑问，有心得或者新颖的看法，可以在`issues`中发表讨论。`issues`中的内容将是这个项目的灵魂。
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[程序员如何技术变现？](https://mp.weixin.qq.com/s/8bj_HYD4ON6kbv6fzrDeKQ)
+最新文章：[马粪争夺案，公正如何看](https://mp.weixin.qq.com/s/0idEfo8GjQfIyPCGZIkZXg)
 
 ## 技术
 
@@ -25,6 +23,8 @@
 * [吐血推荐Chrome浏览器插件](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483778&idx=1&sn=4aba2db4df7219d641002edc215506c5&chksm=907106e0a7068ff67f58524638fb90fdb3faeeff6acea360fa04928d19defd7f496a23e9fbd7&token=1231264541&lang=zh_CN#rd)
 
 ## 金融
+
+* [马粪争夺案，公正如何看](https://mp.weixin.qq.com/s/0idEfo8GjQfIyPCGZIkZXg)
 
 * [风口上的消费金融，是个什么鬼？](https://mp.weixin.qq.com/s/T5GvQZmv-xr8-DRNDf1dbw)
 
