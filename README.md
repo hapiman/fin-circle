@@ -8,7 +8,7 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[看三个金融小故事，了解金融常识](https://mp.weixin.qq.com/s/gxUVgaMOMhJ5EcpoiGc0SQ)
+最新文章：[浅谈互联网金融风控体系](https://mp.weixin.qq.com/s/vL-M9ZRPatdw9SxTLf3WBQ)
 
 ## 技术
 
@@ -23,6 +23,8 @@
 * [吐血推荐Chrome浏览器插件](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483778&idx=1&sn=4aba2db4df7219d641002edc215506c5&chksm=907106e0a7068ff67f58524638fb90fdb3faeeff6acea360fa04928d19defd7f496a23e9fbd7&token=1231264541&lang=zh_CN#rd)
 
 ## 金融
+
+* [浅谈互联网金融风控体系](https://mp.weixin.qq.com/s/vL-M9ZRPatdw9SxTLf3WBQ)
 
 * [看三个金融小故事，了解金融常识](https://mp.weixin.qq.com/s/gxUVgaMOMhJ5EcpoiGc0SQ)
 
