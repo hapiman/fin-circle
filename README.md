@@ -8,7 +8,7 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[谈谈对金融粗浅的理解](https://mp.weixin.qq.com/s/tbUqf6G85dHbDXmIPhpv-Q)
+最新文章：[百度有钱花，花的都是谁的钱？](https://mp.weixin.qq.com/s/9hNsMU1GTK2r1f04FPRwwA)
 
 ## 技术
 
@@ -23,6 +23,10 @@
 * [吐血推荐Chrome浏览器插件](https://mp.weixin.qq.com/s?__biz=MzA5MjIzMDE1Nw==&mid=2247483778&idx=1&sn=4aba2db4df7219d641002edc215506c5&chksm=907106e0a7068ff67f58524638fb90fdb3faeeff6acea360fa04928d19defd7f496a23e9fbd7&token=1231264541&lang=zh_CN#rd)
 
 ## 金融
+
+* [百度有钱花，花的都是谁的钱？](https://mp.weixin.qq.com/s/9hNsMU1GTK2r1f04FPRwwA)
+
+* [浅谈人生财富管理] (https://mp.weixin.qq.com/s/VkMgY-3dmRzY8xjOjJBz8Q)
 
 * [谈谈对金融粗浅的理解](https://mp.weixin.qq.com/s/tbUqf6G85dHbDXmIPhpv-Q)
 
