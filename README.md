@@ -8,7 +8,7 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[“给我一个现金流，我就将它证券化”，经常听到的ABS原来是这个意思。](https://mp.weixin.qq.com/s/EPirEMOC6kxIGHKlTU9aig)
+最新文章：[基金科普（上）](https://mp.weixin.qq.com/s/s-93tlKkQlqGAxOTbeV4Gw)
 
 ## 技术
 
@@ -24,6 +24,8 @@
 
 ## 金融
 
+* [基金科普（上）](https://mp.weixin.qq.com/s/s-93tlKkQlqGAxOTbeV4Gw)
+
 * [“给我一个现金流，我就将它证券化”，经常听到的ABS原来是这个意思。](https://mp.weixin.qq.com/s/EPirEMOC6kxIGHKlTU9aig)
 
 * [互联网金融的比起传统金融机构只不过多了些数据而已。](https://mp.weixin.qq.com/s/dfV8Z5FbS1OwUAG54mA6UA)
@@ -32,7 +34,7 @@
 
 * [百度有钱花，花的都是谁的钱？](https://mp.weixin.qq.com/s/9hNsMU1GTK2r1f04FPRwwA)
 
-* [浅谈人生财富管理] (https://mp.weixin.qq.com/s/VkMgY-3dmRzY8xjOjJBz8Q)
+* [浅谈人生财富管理](https://mp.weixin.qq.com/s/VkMgY-3dmRzY8xjOjJBz8Q)
 
 * [谈谈对金融粗浅的理解](https://mp.weixin.qq.com/s/tbUqf6G85dHbDXmIPhpv-Q)
 
