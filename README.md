@@ -8,9 +8,11 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[基金科普（上）](https://mp.weixin.qq.com/s/s-93tlKkQlqGAxOTbeV4Gw)
+最新文章：[量化交易：看起来真“香”](https://mp.weixin.qq.com/s/F-1Sx-7AoMs3snZakJPUCQ)
 
 ## 技术
+
+* [量化交易：看起来真“香”](https://mp.weixin.qq.com/s/F-1Sx-7AoMs3snZakJPUCQ)
 
 * [你star过的项目就不管了吗？](https://mp.weixin.qq.com/s/l_NC_hbfcuVL4UDKop-6_g)
 
