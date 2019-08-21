@@ -8,9 +8,11 @@
 
 注意：下面是最近在公众号每日更新的文章，最新的文章会存档在本仓库，以供大家指点、学习。
 
-最新文章：[量化交易：看起来真“香”](https://mp.weixin.qq.com/s/F-1Sx-7AoMs3snZakJPUCQ)
+最新文章：[跟着北大老师学金融01](https://mp.weixin.qq.com/s/0pvKpXtu-iA0_m_ZYysHxw)
 
 ## 技术
+
+* [跟着北大老师学金融01](https://mp.weixin.qq.com/s/0pvKpXtu-iA0_m_ZYysHxw)
 
 * [量化交易：看起来真“香”](https://mp.weixin.qq.com/s/F-1Sx-7AoMs3snZakJPUCQ)
 
